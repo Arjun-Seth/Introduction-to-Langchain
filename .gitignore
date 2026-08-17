@@ -210,5 +210,5 @@ __marimo__/
 **/.langgraph_api/
 
 # Files
-notebooks/moduel-1/1.5_personal_chef.py
-notebooks/moduel-1/1.5_personal_chef.ipynb
+notebooks/module-1/1.5_personal_chef.py
+notebooks/module-1/1.5_personal_chef.ipynb
